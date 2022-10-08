@@ -1,2 +1,2 @@
-# designpolicyCHI23
-CHI23 workshop: Designing Technologies and Policies Simultaneously
+# CHI23 workshop: Designing Technologies and Policies Simultaneously
+
