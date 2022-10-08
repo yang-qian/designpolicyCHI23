@@ -1,2 +1,2 @@
-# CHI23 workshop: Designing Technologies and Policies Simultaneously
+# Designing Technologies and Policies Simultaneously
 
