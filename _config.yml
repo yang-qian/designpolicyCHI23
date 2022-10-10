@@ -6,7 +6,7 @@ highlighter:      rouge
 title:            Design Policy
 tagline:          'A CHI&#39;23 workshop'
 description:      'Designing Platform Technology and Policy Simultaneously: A CHI&#39;23 workshop'
-url:              https://HaukeCornell.github.io
+url:              https://yang-qian.github.io
 baseurl:          '/designpolicyCHI23'
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
