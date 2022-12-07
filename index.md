@@ -2,16 +2,10 @@
 layout: page
 title: Home
 ---
-
-<p class="message">
-    Hey there! Yes you! Welcome to our home page for the CHI workshop Design Policy. 
-</p>
   
-We hope you will attend our workshop. 
-For info on the template look [here](https://fongandrew.github.io/hydeout/).
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Commodo elit at imperdiet dui. Ultricies leo integer malesuada nunc vel. Vulputate enim nulla aliquet porttitor lacus. Ut faucibus pulvinar elementum integer enim.
-
-### More Structured Content
-
-* Text is markdown formatted
-* Great
+Accounting for technologies' unintended consequences — whether they are misinformation on social media or issues of sustainability and social justice---increasingly requires HCI to consider technology design at a societal-level scale. At this scale, public and corporate policies play a critical role in shaping technologies and user behaviors. 
+However, the research and practices around tech and policy design have largely been held separate. 
+How can technology design and policies better inform and coordinate with each other in generating safe new technologies?
+What new solutions might emerge when HCI practitioners design technology and its policies simultaneously to account for its societal impacts?
+This workshop addresses these questions.
+It will 1) identify disciplines and areas of expertise needed for a tighter, more proactive technology-and-policy-design integration, 2) launch a community of researchers, educators, and designers interested in this integration, 3) identify and publish an HCI research and education agenda towards designing technologies and technology policies simultaneously.
