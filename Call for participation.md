@@ -27,4 +27,6 @@ Submissions may focus on broad insights into the opportunities and open question
   * Digital twins for policy making
 
 
-**Submissions are due on Feb 23rd, 2023.** The submission link will be available on the workshop website: designpolicy.one. Submissions should use the single-column ACM template. All submissions will be reviewed by the workshop’s co-organizers and other invited expert reviewers. At least one author of each accepted submission must attend the workshop. All participants must register for both the workshop and for at least one day of the conference.
+**Submissions are due on Feb 23rd, 2023.** Submissions should use the single-column ACM template. All submissions will be reviewed by the workshop’s co-organizers and other invited expert reviewers. At least one author of each accepted submission must attend the workshop. All participants must register for both the workshop and for at least one day of the conference.
+
+> **_Submission link_**  Please email your submission (pdf) as an attachment to [CHI23_d.jt0oz3nle9bqnju2@u.box.com](CHI23_d.jt0oz3nle9bqnju2@u.box.com). If any questions, please contact qianyang@cornell.edu instead.
