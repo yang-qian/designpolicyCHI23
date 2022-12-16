@@ -6,8 +6,8 @@ highlighter:      rouge
 title:            Design Policy
 tagline:          'A CHI&#39;23 workshop'
 description:      'Designing Platform Technology and Policy Simultaneously: A CHI&#39;23 workshop'
-url:              https://yang-qian.github.io
-baseurl:          '/designpolicyCHI23'
+url:              https://designpolicy.one
+# baseurl:          '/designpolicyCHI23'
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
                   # If you want to move just the blog index pages but keep
