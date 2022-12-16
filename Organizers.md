@@ -4,7 +4,9 @@ title: Organizers
 sidebar_link: true
 ---
 
-The co-organizers all have experience working at the intersection of technology and policy design. Our core areas of expertise include HCI and service design (Junginger, Yang, Zimmerman), technology public policy and ethics (Gilbert, Jackson, Wong), and legal design and design in policy making and policy implementation (Hagan, Junginger). 
+We have passion and experience working at the intersection of technology and policy design. Our core areas of expertise include HCI and service design (Junginger, Yang, Zimmerman), technology public policy and ethics (Gilbert, Jackson, Wong), and legal design and design in policy making and policy implementation (Hagan, Junginger). 
+
+Contact organizers: Qian Yang (qianyang@cornell.edu) and John Zimmerman (johnz@cs.cmu.edu)
 
 ##  Thomas Gilbert
 **Thomas Krendl Gilbert** is a Postdoctoral Fellow at Cornell Tech's Digital Life Initiative. His research focuses on the emerging political economy of autonomous AI systems, including their technical development, moral significance, and implications [for public policy](https://www.sciencedirect.com/science/article/pii/S0004370221001065).  His recent work investigates how specific machine learning procedures (e.g., [reinforcement learning](https://cltc.berkeley.edu/reward-reports/)) reframe classical ethical questions and recall the foundations of democratic political philosophy, namely the significance of popular sovereignty and dissent for resolving normative uncertainty and modeling human preferences. His work derives concrete implications for the design of AI systems that are fair for distinct subpopulations, safe when enmeshed with institutional practices, and accountable to public concerns, including medium-term applications like [automated vehicles](https://arxiv.org/pdf/2205.07395.pdf). 
