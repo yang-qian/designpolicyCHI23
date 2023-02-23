@@ -29,4 +29,4 @@ Submissions may focus on broad insights into the opportunities and open question
 
 **Submissions are due on Feb 23rd, 2023.** Submissions should use the single-column ACM template. All submissions will be reviewed by the workshop’s co-organizers and other invited expert reviewers. At least one author of each accepted submission must attend the workshop. All participants must register for both the workshop and for at least one day of the conference.
 
-> **_Submission link_**  Upload your submission [here](https://cornell.app.box.com/f/7dbdab85a9c647ec824297025ecfd3b1). For questions, please contact qianyang@cornell.edu instead.
+> **_Submission link_**  Please make sure author information and contact are included in the submission. Upload your submission [here](https://cornell.app.box.com/f/7dbdab85a9c647ec824297025ecfd3b1). For questions, contact qianyang@cornell.edu instead.
