@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Home
+title: Designing Platform Technology and Policy Simultaneously: A CHI'23 workshop
 ---
   
 Accounting for technologies' unintended consequences — whether they are misinformation on social media or issues of sustainability and social justice---increasingly requires HCI to consider technology design at a societal-level scale. At this scale, public and corporate policies play a critical role in shaping technologies and user behaviors. 
