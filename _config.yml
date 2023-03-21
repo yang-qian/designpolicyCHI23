@@ -3,9 +3,9 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Design Policy
+title:            Design x Policy
 tagline:          'A CHI&#39;23 workshop'
-description:      'Designing Platform Technology and Policy Simultaneously: A CHI&#39;23 workshop'
+description:      'A CHI&#39;23 workshop'
 url:              https://designpolicy.one
 # baseurl:          '/designpolicyCHI23'
                   # the optional subpath of your site, e.g. "/blog"

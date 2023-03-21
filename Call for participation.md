@@ -4,7 +4,7 @@ title: Call for participation
 sidebar_link: true
 ---
 
-> See [accepted workshop papers here](docs/accepted.md)!
+> See [accepted workshop papers here](accepted.md)!
 
 Accounting for technologies' unintended consequences---whether they are misinformation on social media or issues of sustainability, privacy, and fairness---increasingly requires HCI to consider technology design at a societal-level scale. At this scale, public and corporate policies play a critical role in shaping technologies and user behaviors. How can technology design and policies better inform and coordinate with each other in generating safe new technologies? What new solutions might emerge when HCI practitioners design technology and its policies simultaneously to account for its societal impacts? This one-day, hybrid workshop brings together HCI, design, and policy communities, academics and practitioners to explore these questions.
 

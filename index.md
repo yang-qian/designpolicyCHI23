@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Designing Platform Technology and Policy Simultaneously: A CHI'23 workshop
+title: CHI’23 Workshop - Designing Technology and Policy Simultaneously
 ---
-  
+ 
 Accounting for technologies' unintended consequences — whether they are misinformation on social media or issues of sustainability and social justice---increasingly requires HCI to consider technology design at a societal-level scale. At this scale, public and corporate policies play a critical role in shaping technologies and user behaviors. 
 However, the research and practices around tech and policy design have largely been held separate. 
 How can technology design and policies better inform and coordinate with each other in generating safe new technologies?
