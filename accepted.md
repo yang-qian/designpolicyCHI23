@@ -8,28 +8,56 @@ The list of accepted submissions is still being updated as camera-ready versions
 
 | Title                                                                         | Authors                                   | Link to submission |
 |-------------------------------------------------------------------------------|-------------------------------------------|--------------------|
+|Designing Technologies for Safe and Privacy Sensitive Location Sharing	| Louise Barkhuus et al.||
+|Contextual Integrity of A Virtual (Reality) Classroom	| Karoline Brehm et al. ||
 |Bridging Deliberative Democracy and Deployment of Societal-Scale Technology|Ned Cooper||
 |Professional Ethics by Design: Co-creating Codes of Conduct for ComputationalPractice|Samuel Danzon-Chambaud||
+|Asking Better Questions - The Art and Science of Forecasting |	Emily Dardaman et al. ||
 |Surveillance Technologies and Migrant Farmers in Ontario Greenhouses:Investigating Pathways for Equitable Policy and Technological Interventions|Olivia Doggett||
-| How Design Can Impact Labor Shifting as a Result of Technological Advances | Jodi Forlizzi | |
-| Sociotechnical Perspectives on Social Media Regulation     |     Eric Gilbert, Sarita Schoenebeck, Motahhare Eslami, Cami Goray  |                    |
-| What Evidence is Needed to Prove the Existence of Dark Patterns?  |  Johanna Gunawan, Usacristiana Santos, Nataliia Bielova  ||
+|From Policy to Pixels: Practitioner Lessons from Cookie Banner Implementation |	Ame Elliott et al. ||
+|Bridging Policy Gaps between Technocratic and Democratic Approaches toAccountability Across the Lifecycle of Public Sector Algorithmic Systems |	Motahhare Eslami et al. ||
+|How Design Can Impact Labor Shifting as a Result of Technological Advances | Jodi Forlizzi | |
+|Solutions Matrix |	Liz Gerber et al. ||
+|How can we influence ‘future of work’ policies?|	Sandy J.J. Gould et al. ||
+|Metaphors as facilitators: Grounding the commons in participatory prototypingpolicies.|	Natalia Gulbransen-Diaz et al. ||
+|Sociotechnical Perspectives on Social Media Regulation     |     Eric Gilbert, Sarita Schoenebeck, Motahhare Eslami, Cami Goray  |                    |
+|What Evidence is Needed to Prove the Existence of Dark Patterns?  |  Johanna Gunawan, Usacristiana Santos, Nataliia Bielova  ||
 |Walking in Circles: Generative AI and the future of online legal information|Nóra Al Haider||
-| Data Ethics Emergency Drill: Exploring Responsible Data and AI Practices in Context | Vanessa Aisyahsari Hanschke | |
+|Data Ethics Emergency Drill: Exploring Responsible Data and AI Practices in Context | Vanessa Aisyahsari Hanschke | |
 |Policy Design in Data Economy: In Need for a Public Online News(Eco)System?|Viktoria Horn, Claude Draude ||
-| Staying with the Trouble of Developing Mental Health Technology and Policy | Jacinta Jardine, Camille Nadal, Sarah Robinson | |
-| Recentering Validity Considerations throughEarly-Stage Deliberations Around AI and Policy Design| Anna Kawakami, Usaamanda Coston, Usahaiyi Zhu, Usahoda Heidari, Usakenneth Holstein ||
-| Designing technology to support social benefit scheme applicants: Reflectionsfrom an Australian cohort| Pranav Kulkarni | |
+|Whose Policy? Privacy Challenges of Decentralized Platforms	| Sohyeon Hwang et al. ||
+|Policy Paths Toward a Systemic Understanding of Recommendation Platforms |	Ruijie Yew et al. ||
+|Staying with the Trouble of Developing Mental Health Technology and Policy | Jacinta Jardine, Camille Nadal, Sarah Robinson | |
+| Opportunities for Coordinating Policy and Technology Design for AlgorithmicAccountability: Insights from the U.S. Criminal Legal System |	Angela Jin et al. ||
+|Recentering Validity Considerations throughEarly-Stage Deliberations Around AI and Policy Design| Anna Kawakami, Usaamanda Coston, Usahaiyi Zhu, Usahoda Heidari, Usakenneth Holstein ||
+|Designing for Equity in Public Sector Data-Driven Innovations: Exploring the Desired Futures of Historically Underserved Business Owners |	Seyun Kim et al. ||
+|(Legal Design) Research through Litigation |	Reuben Kirkham et al. ||
+|Designing technology to support social benefit scheme applicants: Reflectionsfrom an Australian cohort| Pranav Kulkarni | |
+|Towards Disability-Inclusive Built-Environment Navigation & Policy |	Anna Landre et al. ||
+|Designing Technology and Policy Simultaneously for A Better World	| Jingyi Li et al. ||
+|Should Policymakers be Involved? Understanding the Opinions and Needs for Independent Food Delivery Platforms in the United States regarding Public Policy |	Yuhan Liu et al. ||
 |The Moral Underpinnings of AI Regulation: Towards Pluralism | Morgan Livingston||
-| Change Policy or Users? Mitigating the Security Risks of Thermal Attacks | Shaun Alexander Macdonald, Habiba Farzand, Norah Alotaibi, Md Shafiqulislam, Mohamed Khamis | |
+|Decoding the Gendered Design and (Dis)Affordances of Face-editing Technologies in China	Xinyuan | Luo et al. ||
+|Participatory Simulation-Building for Policy Design |	Jonathan Lynn et al. ||
+|Change Policy or Users? Mitigating the Security Risks of Thermal Attacks | Shaun Alexander Macdonald, Habiba Farzand, Norah Alotaibi, Md Shafiqulislam, Mohamed Khamis | |
+|Dynamic Documentation for AI Systems	| Thomas Gilbert, Soham Mehta et al. ||
+|Designing Data Advocacy for Home Care Workers | Joy Ming et al. ||
 |Educating the AI leaders of the future: the approach of AI4Gov|Marzia Mortati, Camilla Roveri, Gianluca Misuraca||
 |Roadmap For Navigating On Uncharted Legal Design Landscapetowards Bright Quantum Future|Katri Nousiainen, Joonas Keskirahkonen ||
 | Socio-technical design in public administration for safer public AI systems | Sem Nouws, Marijn Janssen, Roel Dobbe   | |
+|Understanding the Variability of Governance Models and (Digital) Vulnerabilities in Technology-Facilitated Sex Trafficking|	Linnea Öhlund et al. ||
+|Anticipating Unintended Consequences of Technology Using Insights fromCreativity Support Tools|	Rock Yuren Pang et al. ||
 |Examining Cashless Payment Services in a “Post” Pandemic Environment|Janiya R. Peters, Orissa Rose||
+|Everyday Data and Everyday Publics |	Paola, Pierri et al. ||
 |From Bad to Worse: Using Private Data to PropagateDisinformation on Online Platforms with a Greater Efficiency|Protik Bose Pranto, Waqar Hassan Khan,Sahar Abdelnabi, Rebecca Weil,Mario Fritz, Rakibul Hasan  ||
+|Augmenting participation, co-creation, trust and transparency in deliberativedemocracy at all scales. The ORBIS project.|	Francesca Rizzo et al. ||
 | Fairness Policy for Machine Learning within Digital Healthapps | Seamus Ryan, Anna-lisa Mann, And Gavin Doherty| |
 |Experiential Futures In-the-wild to Inform Policy Design | Camilo Sanchez, Felix A. Epp||
+|Promoting Bright Patterns |	Hauke Sandhaus et al. ||
 |Towards Prototyping Driverless Vehicle Behaviors,City Design, and Policies Simultaneously|Hauke Sandhaus, Wendy Ju, Qian Yang||
 |Human-Centered AI and the Social Contract Perspective|Stefan Schmager||
+|Exploring Implications for Privacy Design and Policy through Smart Home Cameras |	Neilly H. Tan et al. ||
+|Adversarial Engagements Between Technology and Policy|	Anh-Ton Tran et al. ||
+|Navigating the Nexus of Technology, Policy, and Societal Impact in context of Kashmir|	Asra Sakeen Wani et al. ||
 |Thinking Upstream: Ethics and Policy Opportunities in AI Supply Chains | David Gray Widder, Richmond Wong| [arXiv.org](https://arxiv.org/abs/2303.07529)|
 |Epistemic Injustice in Technology and Policy Design:Lessons from New York City’s Heat Complaints System| Mohsin Yousufi, Usacharlotte Alexander, Usanassim Parvin ||
