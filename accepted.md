@@ -8,7 +8,7 @@ The list of accepted submissions is still being updated as camera-ready versions
 
 | Title                                                                         | Authors                                   | Link to submission |
 |-------------------------------------------------------------------------------|-------------------------------------------|--------------------|
-|Designing Technologies for Safe and Privacy Sensitive Location Sharing	| Louise Barkhuus et al.||
+|Designing Technologies for Safe and Privacy Sensitive Location Sharing	| Louise Barkhuus ||
 |Contextual Integrity of A Virtual (Reality) Classroom	| Karoline Brehm et al. ||
 |Bridging Deliberative Democracy and Deployment of Societal-Scale Technology|Ned Cooper||
 |Professional Ethics by Design: Co-creating Codes of Conduct for ComputationalPractice|Samuel Danzon-Chambaud||
@@ -28,7 +28,7 @@ The list of accepted submissions is still being updated as camera-ready versions
 |Whose Policy? Privacy Challenges of Decentralized Platforms	| Sohyeon Hwang et al. ||
 |Policy Paths Toward a Systemic Understanding of Recommendation Platforms |	Ruijie Yew et al. ||
 |Staying with the Trouble of Developing Mental Health Technology and Policy | Jacinta Jardine, Camille Nadal, Sarah Robinson | |
-| Opportunities for Coordinating Policy and Technology Design for AlgorithmicAccountability: Insights from the U.S. Criminal Legal System |	Angela Jin et al. ||
+| Opportunities for Coordinating Policy and Technology Design for AlgorithmicAccountability: Insights from the U.S. Criminal Legal System |	Angela Jin ||
 |Recentering Validity Considerations throughEarly-Stage Deliberations Around AI and Policy Design| Anna Kawakami, Usaamanda Coston, Usahaiyi Zhu, Usahoda Heidari, Usakenneth Holstein ||
 |Designing for Equity in Public Sector Data-Driven Innovations: Exploring the Desired Futures of Historically Underserved Business Owners |	Seyun Kim et al. ||
 |(Legal Design) Research through Litigation |	Reuben Kirkham et al. ||
