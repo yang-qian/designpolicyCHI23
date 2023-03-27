@@ -8,6 +8,7 @@ The list of accepted submissions is still being updated as camera-ready versions
 
 | Title                                                                         | Authors                                   | Link to submission |
 |-------------------------------------------------------------------------------|-------------------------------------------|--------------------|
+|Bridging Deliberative Democracy and Deployment of Societal-Scale Technology|Ned Cooper||
 |Professional Ethics by Design: Co-creating Codes of Conduct for ComputationalPractice|Samuel Danzon-Chambaud||
 |Surveillance Technologies and Migrant Farmers in Ontario Greenhouses:Investigating Pathways for Equitable Policy and Technological Interventions|Olivia Doggett||
 | How Design Can Impact Labor Shifting as a Result of Technological Advances | Jodi Forlizzi | |
@@ -30,4 +31,5 @@ The list of accepted submissions is still being updated as camera-ready versions
 |Experiential Futures In-the-wild to Inform Policy Design | Camilo Sanchez, Felix A. Epp||
 |Towards Prototyping Driverless Vehicle Behaviors,City Design, and Policies Simultaneously|Hauke Sandhaus, Wendy Ju, Qian Yang||
 |Human-Centered AI and the Social Contract Perspective|Stefan Schmager||
+|Thinking Upstream: Ethics and Policy Opportunities in AI Supply Chains | David Gray Widder, Richmond Wong| [arXiv.org](https://arxiv.org/abs/2303.07529)|
 |Epistemic Injustice in Technology and Policy Design:Lessons from New York City’s Heat Complaints System| Mohsin Yousufi, Usacharlotte Alexander, Usanassim Parvin ||
