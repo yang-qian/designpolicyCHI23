@@ -10,7 +10,7 @@ The list of accepted submissions is still being updated as camera-ready versions
 |-------------------------------------------------------------------------------|-------------------------------------------|--------------------|
 |Professional Ethics by Design: Co-creating Codes of Conduct for ComputationalPractice|Samuel Danzon-Chambaud||
 |Surveillance Technologies and Migrant Farmers in Ontario Greenhouses:Investigating Pathways for Equitable Policy and Technological Interventions|Olivia Doggett||
-| How Design Can Impact Labor Shifting as a Result of Technological Advances | Jodi Forlizzi | Olivia Doggett|
+| How Design Can Impact Labor Shifting as a Result of Technological Advances | Jodi Forlizzi | |
 | Sociotechnical Perspectives on Social Media Regulation     |     Eric Gilbert, Sarita Schoenebeck, Motahhare Eslami, Cami Goray  |                    |
 | What Evidence is Needed to Prove the Existence of Dark Patterns?  |  Johanna Gunawan, Usacristiana Santos, Nataliia Bielova  ||
 |Walking in Circles: Generative AI and the future of online legal information|Nóra Al Haider||
