@@ -14,7 +14,7 @@ The list of accepted submissions is still being updated as camera-ready versions
 - Surveillance Technologies and Migrant Farmers in Ontario Greenhouses:Investigating Pathways for Equitable Policy and Technological Interventions, Olivia Doggett
 - From Policy to Pixels: Practitioner Lessons from Cookie Banner Implementation, 	Ame Elliott et al.
 - Bridging Policy Gaps between Technocratic and Democratic Approaches toAccountability Across the Lifecycle of Public Sector Algorithmic Systems, Motahhare Eslami et al.
-- How Design Can Impact Labor Shifting as a Result of Technological Advances | Jodi Forlizzi
+- How Design Can Impact Labor Shifting as a Result of Technological Advances, Jodi Forlizzi
 - Solutions Matrix, Liz Gerber et al.
 - How can we influence ‘future of work’ policies? Sandy J.J. Gould et al.
 - Metaphors as facilitators: Grounding the commons in participatory prototyping policies, Natalia Gulbransen-Diaz et al.
@@ -22,7 +22,7 @@ The list of accepted submissions is still being updated as camera-ready versions
 - What Evidence is Needed to Prove the Existence of Dark Patterns? Johanna Gunawan, Usacristiana Santos, Nataliia Bielova
 - Walking in Circles: Generative AI and the future of online legal information, Nóra Al Haider
 - Data Ethics Emergency Drill: Exploring Responsible Data and AI Practices in Context Vanessa Aisyahsari Hanschke
-- Policy Design in Data Economy: In Need for a Public Online News(Eco)System?|Viktoria Horn, Claude Draude
+- Policy Design in Data Economy: In Need for a Public Online News(Eco)System? Viktoria Horn, Claude Draude
 - Whose Policy? Privacy Challenges of Decentralized Platforms, Sohyeon Hwang et al.
 - Policy Paths Toward a Systemic Understanding of Recommendation Platforms,	Ruijie Yew et al.
 - Staying with the Trouble of Developing Mental Health Technology and Policy, Jacinta Jardine, Camille Nadal, Sarah Robinson,
@@ -35,7 +35,7 @@ The list of accepted submissions is still being updated as camera-ready versions
 - Designing Technology and Policy Simultaneously for A Better World, Jingyi Li et al. 
 - Should Policymakers be Involved? Understanding the Opinions and Needs for Independent Food Delivery Platforms in the United States regarding Public Policy, Yuhan Liu et al.
 - The Moral Underpinnings of AI Regulation: Towards Pluralism, Morgan Livingston
-- Decoding the Gendered Design and (Dis)Affordances of Face-editing Technologies in China	Xinyuan | Luo et al.
+- Decoding the Gendered Design and (Dis)Affordances of Face-editing Technologies in China, Xinyuan Luo et al.
 - Participatory Simulation-Building for Policy Design, Jonathan Lynn et al.
 - Change Policy or Users? Mitigating the Security Risks of Thermal Attacks, Shaun Alexander Macdonald, Habiba Farzand, Norah Alotaibi, Md Shafiqulislam, Mohamed Khamis
 - Dynamic Documentation for AI Systems, Thomas Gilbert, Soham Mehta et al.
@@ -49,7 +49,7 @@ The list of accepted submissions is still being updated as camera-ready versions
 - Everyday Data and Everyday Publics, Paola, Pierri et al.
 - From Bad to Worse: Using Private Data to Propagate Disinformation on Online Platforms with a Greater Efficiency, Protik Bose Pranto, Waqar Hassan Khan,Sahar Abdelnabi, Rebecca Weil,Mario Fritz, Rakibul Hasan
 - Augmenting participation, co-creation, trust and transparency in deliberativedemocracy at all scales. The ORBIS project., Francesca Rizzo et al.
-- Fairness Policy for Machine Learning within Digital Healthapps | Seamus Ryan, Anna-lisa Mann, And Gavin Doherty
+- Fairness Policy for Machine Learning within Digital Healthapps, Seamus Ryan, Anna-lisa Mann, And Gavin Doherty
 - [Experiential Futures In-the-wild to Inform Policy Design](https://arxiv.org/abs/2303.14174), Camilo Sanchez, Felix A. Epp
 - Promoting Bright Patterns, Hauke Sandhaus et al.
 - Towards Prototyping Driverless Vehicle Behaviors,City Design, and Policies Simultaneously, Hauke Sandhaus, Wendy Ju, Qian Yang
