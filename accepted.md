@@ -7,7 +7,7 @@ sidebar_link: true
 The list of accepted submissions is still being updated as camera-ready versions are received.
 
 - Designing Technologies for Safe and Privacy Sensitive Location Sharing, Louise Barkhuus 
-- Contextual Integrity of A Virtual (Reality) Classroom, Karoline Brehm et al.
+- [Contextual Integrity of A Virtual (Reality) Classroom](http://arxiv.org/abs/2303.13684), Karoline Brehm et al.
 - Bridging Deliberative Democracy and Deployment of Societal-Scale Technology, Ned Cooper
 - Professional Ethics by Design: Co-creating Codes of Conduct for Computational Practice, Samuel Danzon-Chambaud
 - Asking Better Questions: The Art and Science of Forecasting, Emily Dardaman et al.
@@ -58,4 +58,4 @@ The list of accepted submissions is still being updated as camera-ready versions
 - Adversarial Engagements Between Technology and Policy, Anh-Ton Tran et al.
 - Navigating the Nexus of Technology, Policy, and Societal Impact in context of Kashmir, Asra Sakeen Wani et al.
 - [Thinking Upstream: Ethics and Policy Opportunities in AI Supply Chains](https://arxiv.org/abs/2303.07529), David Gray Widder, Richmond Wong
-- Epistemic Injustice in Technology and Policy Design: Lessons from New York City’s Heat Complaints System, Mohsin Yousufi, Usacharlotte Alexander, Usanassim Parvin
+- [Epistemic Injustice in Technology and Policy Design: Lessons from New York City’s Heat Complaints Syste](https://arxiv.org/abs/2303.15468), Mohsin Yousufi, Charlotte Alexander, Nassim Parvin.
