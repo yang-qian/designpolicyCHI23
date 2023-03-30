@@ -6,8 +6,6 @@ sidebar_link: true
 
 > The list and links are still being updated as camera-ready versions are received.
 
-- Bridging Policy Gaps between Technocratic and Democratic Approaches toAccountability Across the Lifecycle of Public Sector Algorithmic Systems, Motahhare Eslami et al.
-- How Design Can Impact Labor Shifting as a Result of Technological Advances, Jodi Forlizzi
 - [Designing Technologies for Safe and Privacy Sensitive Location Sharing](https://cornell.box.com/s/ff7d3tfim06aadisvojbhvee47lid49a), Louise Barkhuus 
 - [Contextual Integrity of A Virtual (Reality) Classroom](http://arxiv.org/abs/2303.13684), Karoline Brehm 
 - [Bridging Deliberative Democracy and Deployment of Societal-Scale Technology](https://cornell.box.com/s/azswpriwjgagr793qgyn3hx6d0a726ib), Ned Cooper
