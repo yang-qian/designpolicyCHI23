@@ -24,6 +24,12 @@ paginate:         5
 # paginate_path:    '/page:num'
                     # Or '/blog/page:num' if you want to move your index pages
 
+header_pages:
+  - agenda.md
+  - accepted.md
+  - organizers.md
+  - cfp.md
+
 plugins:
   - jekyll-feed
   - jekyll-gist
