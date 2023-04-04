@@ -51,7 +51,7 @@ sidebar_link: true
 - [Fairness Policy for Machine Learning within Digital Healthapps](https://cornell.box.com/s/2fsnvbhsxix9tst4ojs58vy9w26xblgo), Seamus Ryan, Anna-lisa Mann, And Gavin Doherty
 - [Experiential Futures In-the-wild to Inform Policy Design](https://arxiv.org/abs/2303.14174), Camilo Sanchez, Felix A. Epp
 - [What Evidence is Needed to Prove the Existence of Dark Patterns?](https://cornell.box.com/s/oosik0r95ymijeti1gslm46sbdby7646) Johanna Gunawan, Cristiana Santos, Nataliia Bielova
-- [Promoting Bright Patterns](https://cornell.box.com/s/zbl1tmoravn7hkrl2eeg1rq33i1c6w3n), Hauke Sandhaus
+- [Promoting Bright Patterns](https://arxiv.org/abs/2304.01157), Hauke Sandhaus
 - [Towards Prototyping Driverless Vehicle Behaviors,City Design, and Policies Simultaneously](https://cornell.box.com/s/x72191ndbdx4s7tbhbn5pwnwvo3axvn8), Hauke Sandhaus, Wendy Ju, Qian Yang
 - [Human-Centered AI and the Social Contract Perspective](https://cornell.box.com/s/buf84satf3t6ln56wnajfbsc4xg65elq), Stefan Schmager
 - Exploring Implications for Privacy Design and Policy through Smart Home Cameras, Neilly H. Tan 
