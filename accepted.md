@@ -45,7 +45,7 @@ sidebar_link: true
 - Understanding the Variability of Governance Models and (Digital) Vulnerabilities in Technology-Facilitated Sex Trafficking, Linnea Öhlund
 - Anticipating Unintended Consequences of Technology Using Insights fromCreativity Support Tools, Rock Yuren Pang
 - [Examining Cashless Payment Services in a “Post” Pandemic Environment](http://arxiv.org/abs/2303.12970), Janiya R. Peters, Orissa Rose
-- Everyday Data and Everyday Publics, Paola Pierri
+- [Everyday Data and Everyday Publics](https://cornell.box.com/s/22l1xdnu3ec2kmtwrqu4yh01mynr5zi3), Paola Pierri, Aysun Aytaç, Jon Rogers, Michael Shorter
 - [From Bad to Worse: Using Private Data to Propagate Disinformation on Online Platforms with a Greater Efficiency](https://cornell.box.com/s/h1442ce40mva2e4mwzfcinka407v7zf6), Protik Bose Pranto, Waqar Hassan Khan, Sahar Abdelnabi, Rebecca Weil, Mario Fritz, Rakibul Hasan
 - [Augmenting participation, co-creation, trust and transparency in deliberativedemocracy at all scales: The ORBIS project](https://cornell.box.com/s/qlng390p8ux4by3rjsaew7y1u1nf0gfe), Francesca Rizzo, Ilaria Mariani, Grazia Concilio, and Michelangelo Secchi
 - [Fairness Policy for Machine Learning within Digital Healthapps](https://cornell.box.com/s/2fsnvbhsxix9tst4ojs58vy9w26xblgo), Seamus Ryan, Anna-lisa Mann, And Gavin Doherty
