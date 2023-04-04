@@ -17,24 +17,24 @@ sidebar_link: true
 - [How Design Can Impact Labor Shifting as a Result of Technological Advances](https://cornell.box.com/s/cwu1avf1rfeh0xadvkbx9x35knocnkcr), Jodi Forlizzi
 - Solutions Matrix, Liz Gerber 
 - [How can we influence ‘future of work’ policies?](https://cornell.box.com/s/dur8jvxkgxvg7di8t1i5dwkva83qt0li) Sandy J.J. Gould
-- Metaphors as facilitators: Grounding the commons in participatory prototyping policies, Natalia Gulbransen-Diaz 
+- [Metaphors as facilitators: Grounding the commons in participatory prototyping policies](https://cornell.box.com/s/7zon0crugkiq2s0skw7elw6vijaxr15p), Natalia Gulbransen-Diaz, Benedetta Lusi, and Ajit G. Pillai
 - Sociotechnical Perspectives on Social Media Regulation, Eric Gilbert, Sarita Schoenebeck, Motahhare Eslami, Cami Goray,
-- [Walking in Circles: Generative AI and the future of online legal information](https://cornell.box.com/s/qwl87huzqn29a52q9uzi0340pypqpocd), Nóra Al Haider
+- [Walking in Circles: Generative AI and the future of online legal information](https://cornell.box.com/s/atfa9jhhqhuldrtbawahow41fnm30661), Nóra Al Haider
 - [Data Ethics Emergency Drill: Exploring Responsible Data and AI Practices in Context](https://cornell.box.com/s/cyaal5hacuj8y3i7dauqfjnqvbhexdtd), Vanessa Aisyahsari Hanschke
 - [Policy Design in Data Economy: In Need for a Public Online News(Eco)System?](https://cornell.box.com/s/tm04qmve2py4566tfgo9vbn9sdjizb0d) Viktoria Horn and Claude Draude
-- Whose Policy? Privacy Challenges of Decentralized Platforms, Sohyeon Hwang
+- [Whose Policy? Privacy Challenges of Decentralized Platforms](https://www.sohyeonhwang.com/docs/CHI2023_Workshop_DesignPolicy.pdf), Sohyeon Hwang
 - Policy Paths Toward a Systemic Understanding of Recommendation Platforms,	Ruijie Yew
 - [Staying with the Trouble of Developing Mental Health Technology and Policy](https://cornell.box.com/s/thg2laayu67tjdwa070u1t2q74i6sy32), Jacinta Jardine, Camille Nadal, Sarah Robinson,
 - [Opportunities for Coordinating Policy and Technology Design for AlgorithmicAccountability: Insights from the U.S. Criminal Legal System](https://cornell.box.com/s/frq8pdn2682stbftddcj0idvcugapn8j), Angela Jin
 - [Recentering Validity Considerations through Early-Stage Deliberations Around AI and Policy Design](https://cornell.box.com/s/eowiu60fvtin2110bnlyg7ri7zljag2y), Anna Kawakami, Amanda Coston, Haiyi Zhu, Hoda Heidari, Kenneth Holstein
-- Designing for Equity in Public Sector Data-Driven Innovations: Exploring the Desired Futures of Historically Underserved Business Owners, Seyun Kim
+- [Designing for Equity in Public Sector Data-Driven Innovations: Exploring the Desired Futures of Historically Underserved Business Owners](https://cornell.box.com/s/8290hlzigs9kf561s11wh55si90107a4), Seyun Kim, Bonnie Fan, Willa Yunqi Yang, Yinan Li, Jonatahn Ho, Sarah E Fox, Jessie Ramey, Haiyi Zhu, John Zimmerman, Motahhare Eslami.
 - [(Legal Design) Research through Litigation](http://arxiv.org/abs/2303.14336), Reuben Kirkham
 - [Designing technology to support social benefit scheme applicants: Reflections from an Australian cohort](https://cornell.box.com/s/taolmficd3iiooq2wuc21yzonl0dsuv1), Pranav Kulkarni
 - Towards Disability-Inclusive Built-Environment Navigation & Policy, Anna Landre
 - [Designing Technology and Policy Simultaneously for A Better World](https://cornell.box.com/s/k4rkdv0yzzoduylm8yz4qzk79hxsqijf), Jingyi Li
 - Should Policymakers be Involved? Understanding the Opinions and Needs for Independent Food Delivery Platforms in the United States regarding Public Policy, Yuhan Liu
 - [The Moral Underpinnings of AI Regulation: Towards Pluralism](https://cornell.box.com/s/tvzxgc7l0iibypyqv9qfqc0zulghk9jx), Morgan Livingston
-- [Decoding the Gendered Design and (Dis)Affordances of Face-editing Technologies in China](https://cornell.box.com/s/6xrrvh2t5cdxbbphtoebukn7c1ihl7oq), Xinyuan Luo
+- [Decoding the Gendered Design and (Dis)Affordances of Face-editing Technologies in China](https://cornell.box.com/s/vhs5jpot8ltit0kwx326alyywyzkmqla), Xinyuan Luo and Renwen Zhang
 - Participatory Simulation-Building for Policy Design, Jonathan Lynn
 - [Change Policy or Users? Mitigating the Security Risks of Thermal Attacks](https://cornell.box.com/s/hwgvg7wtbkz8oc2kpi549yl5u27v4jhh), Shaun Alexander Macdonald, Habiba Farzand, Norah Alotaibi, Md Shafiqulislam, Mohamed Khamis
 - Dynamic Documentation for AI Systems, Thomas Gilbert, Soham Mehta
@@ -47,11 +47,11 @@ sidebar_link: true
 - [Examining Cashless Payment Services in a “Post” Pandemic Environment](http://arxiv.org/abs/2303.12970), Janiya R. Peters, Orissa Rose
 - Everyday Data and Everyday Publics, Paola Pierri
 - [From Bad to Worse: Using Private Data to Propagate Disinformation on Online Platforms with a Greater Efficiency](https://cornell.box.com/s/h1442ce40mva2e4mwzfcinka407v7zf6), Protik Bose Pranto, Waqar Hassan Khan, Sahar Abdelnabi, Rebecca Weil, Mario Fritz, Rakibul Hasan
-- Augmenting participation, co-creation, trust and transparency in deliberativedemocracy at all scales: The ORBIS project, Francesca Rizzo
+- [Augmenting participation, co-creation, trust and transparency in deliberativedemocracy at all scales: The ORBIS project](https://cornell.box.com/s/qlng390p8ux4by3rjsaew7y1u1nf0gfe), Francesca Rizzo, Ilaria Mariani, Grazia Concilio, and Michelangelo Secchi
 - [Fairness Policy for Machine Learning within Digital Healthapps](https://cornell.box.com/s/2fsnvbhsxix9tst4ojs58vy9w26xblgo), Seamus Ryan, Anna-lisa Mann, And Gavin Doherty
 - [Experiential Futures In-the-wild to Inform Policy Design](https://arxiv.org/abs/2303.14174), Camilo Sanchez, Felix A. Epp
 - [What Evidence is Needed to Prove the Existence of Dark Patterns?](https://cornell.box.com/s/oosik0r95ymijeti1gslm46sbdby7646) Johanna Gunawan, Cristiana Santos, Nataliia Bielova
-- Promoting Bright Patterns, Hauke Sandhaus
+- [Promoting Bright Patterns](https://cornell.box.com/s/zbl1tmoravn7hkrl2eeg1rq33i1c6w3n), Hauke Sandhaus
 - [Towards Prototyping Driverless Vehicle Behaviors,City Design, and Policies Simultaneously](https://cornell.box.com/s/x72191ndbdx4s7tbhbn5pwnwvo3axvn8), Hauke Sandhaus, Wendy Ju, Qian Yang
 - [Human-Centered AI and the Social Contract Perspective](https://cornell.box.com/s/buf84satf3t6ln56wnajfbsc4xg65elq), Stefan Schmager
 - Exploring Implications for Privacy Design and Policy through Smart Home Cameras, Neilly H. Tan 
