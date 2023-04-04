@@ -2,7 +2,6 @@
 layout: page
 title: Designing Technology and Policy Simultaneously: Towards A Research Agenda and New Practice
 ---
-
  
 Accounting for technologies' unintended consequences — whether they are misinformation on social media or issues of sustainability and social justice---increasingly requires HCI to consider technology design at a societal-level scale. At this scale, public and corporate policies play a critical role in shaping technologies and user behaviors. 
 
@@ -10,9 +9,9 @@ However, the research and practices around tech and policy design have largely b
 
 This workshop aims to
 
-1. Identify disciplines and areas of expertise needed for a tighter, more proactive technology-and-policy-design integration,
-1. Launch a community of researchers, educators, and designers interested in this integration,
-1. Identify and publish an HCI research and education agenda towards designing technologies and technology policies simultaneously.
+* Identify disciplines and areas of expertise needed for a tighter, more proactive technology-and-policy-design integration,
+* Launch a community of researchers, educators, and designers interested in this integration,
+* Identify and publish an HCI research and education agenda towards designing technologies and technology policies simultaneously.
 
 > Read more about the motivation and background of _Designing Technology and Policy Simultaneously_ [here](https://www.researchgate.net/profile/Qian-Yang-19/publication/367118347_Designing_Technology_and_Policy_Simultaneously_Towards_A_Research_Agenda_and_New_Practice/links/63c1e373d9fb5967c2d354b6/Designing-Technology-and-Policy-Simultaneously-Towards-A-Research-Agenda-and-New-Practice.pdf).
 
