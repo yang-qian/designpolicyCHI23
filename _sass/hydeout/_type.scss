@@ -10,7 +10,8 @@ h5,
 h6,
 .site-title {
   color: $heading-color;
-  font-weight: 600;
+  font-weight: 500;
+  font-family: 'Fira Sans';
   line-height: 1.25;
   margin-bottom: $heading-spacing;
   text-rendering: optimizeLegibility;
@@ -51,6 +52,7 @@ ol,
 dl {
   margin-bottom: 1rem;
   margin-top: 0;
+  margin-left: 10px
 }
 
 dt {
