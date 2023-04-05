@@ -9,7 +9,7 @@ sidebar_link: true
 - [Designing Technologies for Safe and Privacy Sensitive Location Sharing](https://cornell.box.com/s/ff7d3tfim06aadisvojbhvee47lid49a), Louise Barkhuus 
 - [Contextual Integrity of A Virtual (Reality) Classroom](http://arxiv.org/abs/2303.13684), Karoline Brehm 
 - [Bridging Deliberative Democracy and Deployment of Societal-Scale Technology](https://cornell.box.com/s/azswpriwjgagr793qgyn3hx6d0a726ib), Ned Cooper
-- [Professional Ethics by Design: Co-creating Codes of Conduct for Computational Practice](https://cornell.box.com/s/sgqk6fxddc7gg11b6izph7trxgwixttv), Samuel Danzon-Chambaud
+- [Professional Ethics by Design: Co-creating Codes of Conduct for Computational Practice](https://cornell.box.com/s/sgqk6fxddc7gg11b6izph7trxgwixttv), Samuel Danzon-Chambaud and Marguerite Foissac
 - Asking Better Questions: The Art and Science of Forecasting, Emily Dardaman 
 - [Surveillance Technologies and Migrant Farmers in Ontario Greenhouses:Investigating Pathways for Equitable Policy and Technological Interventions](https://cornell.box.com/s/ww368m933w7xp4j5i9gr3ztamgi70fgb), Olivia Doggett
 - From Policy to Pixels: Practitioner Lessons from Cookie Banner Implementation, 	Ame Elliott 
@@ -54,7 +54,7 @@ sidebar_link: true
 - [Promoting Bright Patterns](https://arxiv.org/abs/2304.01157), Hauke Sandhaus
 - [Towards Prototyping Driverless Vehicle Behaviors,City Design, and Policies Simultaneously](https://cornell.box.com/s/x72191ndbdx4s7tbhbn5pwnwvo3axvn8), Hauke Sandhaus, Wendy Ju, Qian Yang
 - [Human-Centered AI and the Social Contract Perspective](https://cornell.box.com/s/buf84satf3t6ln56wnajfbsc4xg65elq), Stefan Schmager
-- Exploring Implications for Privacy Design and Policy through Smart Home Cameras, Neilly H. Tan 
+- [Tracing Data and the Visual Image: Implications for Privacy and Consent with Smart Home Security Cameras](https://cornell.box.com/s/x5bwn0e031frcig3qa8m8n9064llxvp5), Neilly H. Tan 
 - Adversarial Engagements Between Technology and Policy, Anh-Ton Tran
 - Navigating the Nexus of Technology, Policy, and Societal Impact in context of Kashmir, Asra Sakeen Wani
 - [Thinking Upstream: Ethics and Policy Opportunities in AI Supply Chains](https://arxiv.org/abs/2303.07529), David Gray Widder, Richmond Wong
