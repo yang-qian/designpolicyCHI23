@@ -32,7 +32,7 @@ sidebar_link: true
 - [Designing technology to support social benefit scheme applicants: Reflections from an Australian cohort](https://cornell.box.com/s/taolmficd3iiooq2wuc21yzonl0dsuv1), Pranav Kulkarni
 - Towards Disability-Inclusive Built-Environment Navigation & Policy, Anna Landre
 - [Designing Technology and Policy Simultaneously for A Better World](https://cornell.box.com/s/k4rkdv0yzzoduylm8yz4qzk79hxsqijf), Jingyi Li
-- Should Policymakers be Involved? Understanding the Opinions and Needs for Independent Food Delivery Platforms in the United States regarding Public Policy, Yuhan Liu
+- [Should Policymakers be Involved? Understanding the Opinions and Needs for Independent Food Delivery Platforms in the United States regarding Public Policy](https://arxiv.org/abs/2303.15415), Yuhan Liu, Amna Liaqat, and Andrés Monroy-Hernández
 - [The Moral Underpinnings of AI Regulation: Towards Pluralism](https://cornell.box.com/s/tvzxgc7l0iibypyqv9qfqc0zulghk9jx), Morgan Livingston
 - [Decoding the Gendered Design and (Dis)Affordances of Face-editing Technologies in China](https://cornell.box.com/s/vhs5jpot8ltit0kwx326alyywyzkmqla), Xinyuan Luo and Renwen Zhang
 - Participatory Simulation-Building for Policy Design, Jonathan Lynn
