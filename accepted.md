@@ -37,7 +37,7 @@ sidebar_link: true
 - [Decoding the Gendered Design and (Dis)Affordances of Face-editing Technologies in China](https://cornell.box.com/s/vhs5jpot8ltit0kwx326alyywyzkmqla), Xinyuan Luo and Renwen Zhang
 - Participatory Simulation-Building for Policy Design, Jonathan Lynn
 - [Change Policy or Users? Mitigating the Security Risks of Thermal Attacks](https://cornell.box.com/s/hwgvg7wtbkz8oc2kpi549yl5u27v4jhh), Shaun Alexander Macdonald, Habiba Farzand, Norah Alotaibi, Md Shafiqulislam, Mohamed Khamis
-- Dynamic Documentation for AI Systems, Thomas Gilbert, Soham Mehta
+- [Dynamic Documentation for AI Systems](https://arxiv.org/abs/2303.10854), Thomas Gilbert, Soham Mehta
 - Designing Data Advocacy for Home Care Workers, Joy Ming
 - [Educating the AI leaders of the future: the approach of AI4Gov](https://cornell.box.com/s/0x73fywx3tb7q09m2a7u3hd4hoipxxao), Marzia Mortati, Camilla Roveri, Gianluca Misuraca
 - [Roadmap For Navigating On Uncharted Legal Design Landscapetowards Bright Quantum Future](https://cornell.box.com/s/lm0cgmhfdp74ln3xhqsu5iz9nby0f0d1), Katri Nousiainen and Joonas Keskirahkonen
@@ -55,7 +55,7 @@ sidebar_link: true
 - [Towards Prototyping Driverless Vehicle Behaviors,City Design, and Policies Simultaneously](https://cornell.box.com/s/x72191ndbdx4s7tbhbn5pwnwvo3axvn8), Hauke Sandhaus, Wendy Ju, Qian Yang
 - [Human-Centered AI and the Social Contract Perspective](https://cornell.box.com/s/buf84satf3t6ln56wnajfbsc4xg65elq), Stefan Schmager
 - [Tracing Data and the Visual Image: Implications for Privacy and Consent with Smart Home Security Cameras](https://cornell.box.com/s/x5bwn0e031frcig3qa8m8n9064llxvp5), Neilly H. Tan 
-- Adversarial Engagements Between Technology and Policy, Anh-Ton Tran
+- [Adversarial Engagements Between Technology and Policy](https://cornell.box.com/s/3tcb8ycqkc0e00n5s37111v1g8nvypzk), Anh-Ton Tran
 - Navigating the Nexus of Technology, Policy, and Societal Impact in context of Kashmir, Asra Sakeen Wani
 - [Thinking Upstream: Ethics and Policy Opportunities in AI Supply Chains](https://arxiv.org/abs/2303.07529), David Gray Widder, Richmond Wong
 - [Epistemic Injustice in Technology and Policy Design: Lessons from New York City’s Heat Complaints System](https://arxiv.org/abs/2303.15468), Mohsin Yousufi, Charlotte Alexander, Nassim Parvin.
