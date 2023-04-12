@@ -43,7 +43,7 @@ sidebar_link: true
 - [Roadmap For Navigating On Uncharted Legal Design Landscapetowards Bright Quantum Future](https://cornell.box.com/s/lm0cgmhfdp74ln3xhqsu5iz9nby0f0d1), Katri Nousiainen and Joonas Keskirahkonen
 - [Socio-technical design in public administration for safer public AI systems](https://cornell.box.com/s/x2hzhfis7k82yauntzzzss9n3kff1z4x), Sem Nouws, Marijn Janssen, Roel Dobbe
 - [Understanding the Variability of Governance Models and (Digital) Vulnerabilities in Technology-Facilitated Sex Trafficking](https://cornell.box.com/s/4biyooscul7qn5wuqs7pinxfpflu88gk), Linnea Öhlund
-- Anticipating Unintended Consequences of Technology Using Insights fromCreativity Support Tools, Rock Yuren Pang
+- [Anticipating Unintended Consequences of Technology Using Insights fromCreativity Support Tools](https://cornell.box.com/s/kpaobk0swd7kt6ofdjeyy4wk83uukd8l), Rock Yuren Pang and Katharina Reinecke
 - [Examining Cashless Payment Services in a “Post” Pandemic Environment](http://arxiv.org/abs/2303.12970), Janiya R. Peters, Orissa Rose
 - [Everyday Data and Everyday Publics](https://cornell.box.com/s/22l1xdnu3ec2kmtwrqu4yh01mynr5zi3), Paola Pierri, Aysun Aytaç, Jon Rogers, Michael Shorter
 - [From Bad to Worse: Using Private Data to Propagate Disinformation on Online Platforms with a Greater Efficiency](https://cornell.box.com/s/h1442ce40mva2e4mwzfcinka407v7zf6), Protik Bose Pranto, Waqar Hassan Khan, Sahar Abdelnabi, Rebecca Weil, Mario Fritz, Rakibul Hasan
