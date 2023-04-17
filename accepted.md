@@ -52,7 +52,7 @@ sidebar_link: true
 - [Experiential Futures In-the-wild to Inform Policy Design](https://arxiv.org/abs/2303.14174), Camilo Sanchez, Felix A. Epp
 - [What Evidence is Needed to Prove the Existence of Dark Patterns?](https://cornell.box.com/s/oosik0r95ymijeti1gslm46sbdby7646) Johanna Gunawan, Cristiana Santos, Nataliia Bielova
 - [Promoting Bright Patterns](https://arxiv.org/abs/2304.01157), Hauke Sandhaus
-- [Towards Prototyping Driverless Vehicle Behaviors,City Design, and Policies Simultaneously](https://cornell.box.com/s/x72191ndbdx4s7tbhbn5pwnwvo3axvn8), Hauke Sandhaus, Wendy Ju, Qian Yang
+- [Towards Prototyping Driverless Vehicle Behaviors,City Design, and Policies Simultaneously](https://arxiv.org/abs/2304.06639), Hauke Sandhaus, Wendy Ju, Qian Yang
 - [Human-Centered AI and the Social Contract Perspective](https://cornell.box.com/s/buf84satf3t6ln56wnajfbsc4xg65elq), Stefan Schmager
 - [Tracing Data and the Visual Image: Implications for Privacy and Consent with Smart Home Security Cameras](https://cornell.box.com/s/x5bwn0e031frcig3qa8m8n9064llxvp5), Neilly H. Tan 
 - [Adversarial Engagements Between Technology and Policy](https://cornell.box.com/s/3tcb8ycqkc0e00n5s37111v1g8nvypzk), Anh-Ton Tran
