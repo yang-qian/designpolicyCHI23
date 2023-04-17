@@ -23,7 +23,7 @@ sidebar_link: true
 - [Data Ethics Emergency Drill: Exploring Responsible Data and AI Practices in Context](https://cornell.box.com/s/cyaal5hacuj8y3i7dauqfjnqvbhexdtd), Vanessa Aisyahsari Hanschke
 - [Policy Design in Data Economy: In Need for a Public Online News(Eco)System?](https://cornell.box.com/s/tm04qmve2py4566tfgo9vbn9sdjizb0d) Viktoria Horn and Claude Draude
 - [Whose Policy? Privacy Challenges of Decentralized Platforms](https://www.sohyeonhwang.com/docs/CHI2023_Workshop_DesignPolicy.pdf), Sohyeon Hwang
-- Policy Paths Toward a Systemic Understanding of Recommendation Platforms,	Ruijie Yew
+- [Policy Paths Toward an Understanding of AI Interfaces: A Case Study on Recommendation Platforms](https://cornell.box.com/s/gtqnbjiial0kzcqcr5awqdfz10hv0c92), Rui-Jie Yew*, Taylor Lynn Curtis*, Mackenzie Leake, Chara Podimata, Dylan Hadfield-Menell. (*equal contribution.)
 - [Staying with the Trouble of Developing Mental Health Technology and Policy](https://cornell.box.com/s/thg2laayu67tjdwa070u1t2q74i6sy32), Jacinta Jardine, Camille Nadal, Sarah Robinson,
 - [Opportunities for Coordinating Policy and Technology Design for AlgorithmicAccountability: Insights from the U.S. Criminal Legal System](https://cornell.box.com/s/frq8pdn2682stbftddcj0idvcugapn8j), Angela Jin
 - [Recentering Validity Considerations through Early-Stage Deliberations Around AI and Policy Design](https://cornell.box.com/s/eowiu60fvtin2110bnlyg7ri7zljag2y), Anna Kawakami, Amanda Coston, Haiyi Zhu, Hoda Heidari, Kenneth Holstein
@@ -42,7 +42,7 @@ sidebar_link: true
 - [Educating the AI leaders of the future: the approach of AI4Gov](https://cornell.box.com/s/0x73fywx3tb7q09m2a7u3hd4hoipxxao), Marzia Mortati, Camilla Roveri, Gianluca Misuraca
 - [Roadmap For Navigating On Uncharted Legal Design Landscapetowards Bright Quantum Future](https://cornell.box.com/s/lm0cgmhfdp74ln3xhqsu5iz9nby0f0d1), Katri Nousiainen and Joonas Keskirahkonen
 - [Socio-technical design in public administration for safer public AI systems](https://cornell.box.com/s/x2hzhfis7k82yauntzzzss9n3kff1z4x), Sem Nouws, Marijn Janssen, Roel Dobbe
-- [Understanding the Variability of Governance Models and (Digital) Vulnerabilities in Technology-Facilitated Sex Trafficking](https://cornell.box.com/s/4biyooscul7qn5wuqs7pinxfpflu88gk), Linnea Öhlund
+- [Understanding the Variability of Governance Models and (Digital) Vulnerabilities in Technology-Facilitated Sex Trafficking](https://cornell.box.com/s/a5d9c1yq8s2msvzo5cyi2807h0c61nwm), Linnea Öhlund
 - [Anticipating Unintended Consequences of Technology Using Insights fromCreativity Support Tools](https://cornell.box.com/s/kpaobk0swd7kt6ofdjeyy4wk83uukd8l), Rock Yuren Pang and Katharina Reinecke
 - [Examining Cashless Payment Services in a “Post” Pandemic Environment](http://arxiv.org/abs/2303.12970), Janiya R. Peters, Orissa Rose
 - [Everyday Data and Everyday Publics](https://cornell.box.com/s/22l1xdnu3ec2kmtwrqu4yh01mynr5zi3), Paola Pierri, Aysun Aytaç, Jon Rogers, Michael Shorter
