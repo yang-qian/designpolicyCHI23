@@ -35,7 +35,7 @@ sidebar_link: true
 - [Should Policymakers be Involved? Understanding the Opinions and Needs for Independent Food Delivery Platforms in the United States regarding Public Policy](https://arxiv.org/abs/2303.15415), Yuhan Liu, Amna Liaqat, and Andrés Monroy-Hernández
 - [The Moral Underpinnings of AI Regulation: Towards Pluralism](https://cornell.box.com/s/tvzxgc7l0iibypyqv9qfqc0zulghk9jx), Morgan Livingston
 - [Decoding the Gendered Design and (Dis)Affordances of Face-editing Technologies in China](https://cornell.box.com/s/vhs5jpot8ltit0kwx326alyywyzkmqla), Xinyuan Luo and Renwen Zhang
-- Participatory Simulation-Building for Policy Design, Jonathan Lynn
+- [Participatory Simulation-Building for Policy Design](https://cornell.box.com/s/4nr05vdi0o06xmhsuykqgcz745kiowys), Jonathan Lynn, Angie Zhang, Alexander Boltz, and Min Kyung Lee
 - [Change Policy or Users? Mitigating the Security Risks of Thermal Attacks](https://cornell.box.com/s/hwgvg7wtbkz8oc2kpi549yl5u27v4jhh), Shaun Alexander Macdonald, Habiba Farzand, Norah Alotaibi, Md Shafiqulislam, Mohamed Khamis
 - [Dynamic Documentation for AI Systems](https://arxiv.org/abs/2303.10854), Thomas Gilbert, Soham Mehta
 - Designing Data Advocacy for Home Care Workers, Joy Ming
