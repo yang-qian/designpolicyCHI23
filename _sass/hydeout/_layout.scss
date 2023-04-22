@@ -34,6 +34,13 @@ body {
   min-width: 80%;
 }
 
+iframe {
+  height: 600px;
+  width: 100%;
+  resize: both;
+  overflow: auto;
+}
+
 #sidebar {
   flex: 0 0 auto;
   padding: $section-spacing;

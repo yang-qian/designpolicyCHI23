@@ -38,7 +38,7 @@ sidebar_link: true
 - [Participatory Simulation-Building for Policy Design](https://cornell.box.com/s/4nr05vdi0o06xmhsuykqgcz745kiowys), Jonathan Lynn, Angie Zhang, Alexander Boltz, and Min Kyung Lee
 - [Change Policy or Users? Mitigating the Security Risks of Thermal Attacks](https://cornell.box.com/s/hwgvg7wtbkz8oc2kpi549yl5u27v4jhh), Shaun Alexander Macdonald, Habiba Farzand, Norah Alotaibi, Md Shafiqulislam, Mohamed Khamis
 - [Dynamic Documentation for AI Systems](https://arxiv.org/abs/2303.10854), Thomas Gilbert, Soham Mehta
-- Designing Data Advocacy for Home Care Workers, Joy Ming
+- [Designing Data Advocacy for Home Care Workers](https://cornell.box.com/s/uxrfu46qf51lsmk55cd9q3avuq1h6c4y), Joy Ming
 - [Educating the AI leaders of the future: the approach of AI4Gov](https://cornell.box.com/s/0x73fywx3tb7q09m2a7u3hd4hoipxxao), Marzia Mortati, Camilla Roveri, Gianluca Misuraca
 - [Roadmap For Navigating On Uncharted Legal Design Landscapetowards Bright Quantum Future](https://cornell.box.com/s/lm0cgmhfdp74ln3xhqsu5iz9nby0f0d1), Katri Nousiainen and Joonas Keskirahkonen
 - [Socio-technical design in public administration for safer public AI systems](https://cornell.box.com/s/x2hzhfis7k82yauntzzzss9n3kff1z4x), Sem Nouws, Marijn Janssen, Roel Dobbe
