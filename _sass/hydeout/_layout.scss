@@ -35,8 +35,8 @@ body {
 }
 
 iframe {
-  height: 600px;
-  width: 100%;
+  height: 600px!important;
+  width: 800px!important;
   resize: both;
   overflow: auto;
 }
